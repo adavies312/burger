@@ -10,7 +10,7 @@ var orm = {
     },
 
     insertOne: function(burger_name, callback) {
-        connection.query("INSERT INTO burgers SET ?", [burgerName], function (err, result){
+        connection.query("INSERT INTO burgers SET ?", {burgerName:burger_name}, function (err, result){
             if (err) throw err;
             callback(result);
         })
