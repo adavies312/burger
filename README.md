@@ -207,4 +207,9 @@ Add a `README.md` to your repository describing the project. Here are some resou
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 - - -
+<<<<<<< HEAD
 I HOPE YOU ENJOY THIS APP!
+=======
+
+I HOPE YOUR ENJOY THIS APP!!!!!!!!! 
+>>>>>>> 6e6f2f7f79f3e75ff93f3158a59eb8ce4ce93664
